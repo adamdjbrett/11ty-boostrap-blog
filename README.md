@@ -1,4 +1,5 @@
 # bootstrap11ty - eleventy website template free download source code
+theme by <https://www.hockeycomputindo.com/>
 
 Demo Test drive 🚀 : [https://eleventyblog.vercel.app/ ](https://eleventyblog.vercel.app/)
 
@@ -29,19 +30,22 @@ run `npm update`
 
 Gt Metrix test
 
-![eleventy 11ty bootstrap website seo FAST WEBSITE ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGecHsFZiKErAGPXDHFx8so8ZxGp2vjeT4bTAvZIl9uHcfKz_ecynlS2K6AtcBqhEgB0FcPsdU2jn0SPcPz0EFFoqdYfEoyEVYVnTxZuErHbHsJxg6QHivQt32NGIOPCSH1KOjOv065bqPrMM75T_sfKaTFQ7o2CAaeZ0wmAssrMcyKtcpjfyPPk6ZgQ/s1106/Screenshot%202022-12-01%20at%2014-58-08%20GTmetrix%20Performance%20Report.png)
+![eleventy 11ty bootstrap website seo FAST WEBSITE ](/img/1.png)
 
 lighthouse test
 
-![FAST WEBSITE eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjewpPs9bctZHJtqxlivpkR6YhizcOObsGGB98C7Wf_VhPRJZtr3_L0U-fRZN8xZFllwBA6ZkY7JCduYr64pAiDNEkwSE7fWauD7OezJeT19ke_ChqvhJ6k-sJsIMGBHFYOYFEb2MwlokoyzPAEVMobdZEfd7iSHgCGsy2q0Ws25-eIKvmrbYduCnuL-Q/s1349/Screenshot%202022-12-01%20at%2014-55-40%20Lighthouse%20Report%20Viewer.png)
+![FAST WEBSITE eleventy 11ty bootstrap website seo](/img/2.png)
 
 Mobile test
 
-![FAST WEBSITE eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6lbIwGE8RlPpmnFn6kewsCJIpXSX3_4QA7ham_xcrUmfLRSkt3-ZZsCbMK-GYM-josmt-ZXfGs9ZzsHsep9qYSoZ7JQiNVaZ5XQFZPpa-PMSB1f8SyXliZ_GGCWb6s8ZpRO6aZfXrKghwCXOJ2VkWnQUFHIWY_Lp28UBjsrsj60gSp7yG_kgsRYCZFw/s1349/Screenshot%202022-12-01%20at%2014-51-07%20PageSpeed%20Insights.png)
+![FAST WEBSITE eleventy 11ty bootstrap website seo](/img/3.png)
 
 Dekstop test
 
-![FAST WEBSITE eleventy 11ty bootstrap website seo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQrjTtyfn86I-L-tgTAXW43rvPrcLn6w4HklD0XHvb5auubf-QLiIb8ZGJg29DyIBluYp50LJtGv1U6wWhR_6X5YRb2IPIrsisdZ62vhkXDlIG9TtDEaE9J4pzX0Smeg6qdA4vKeGKha2Omgyp4RolptDO0-sk_VzxB0JCwKbBshGRTHvuSLEix4grog/s1349/Screenshot%202022-12-01%20at%2014-35-27%20PageSpeed%20Insights.png)
+![FAST WEBSITE eleventy 11ty bootstrap website seo](/img/4.png)
+
+Final test
+![FAST WEBSITE eleventy 11ty bootstrap website seo](/img/5.png)
 
 recipes :
 
